@@ -1,0 +1,28 @@
+## Interface: 16001
+## Title: Hook & Harvest
+## Title-frFR: Hook & Harvest
+## Title-esES: Hook & Harvest
+## Title-esMX: Hook & Harvest
+## Notes: One key (F) to fish, reel in, gather herbs, mine and skin, with an illustrated on-screen prompt, roleplay lines and a catch log.
+## Notes-frFR: Une touche (F) pour pêcher, ferrer, cueillir, miner et dépecer, avec une invite illustrée à l'écran, des phrases roleplay et un carnet de prises.
+## Notes-esES: Una tecla (F) para pescar, recoger el sedal, recolectar hierbas, minar y desollar, con un aviso ilustrado en pantalla, frases de rol y un registro de capturas.
+## Notes-esMX: Una tecla (F) para pescar, recoger el sedal, recolectar hierbas, minar y desollar, con un aviso ilustrado en pantalla, frases de rol y un registro de capturas.
+## Author: Ghosti
+## Version: 1.0.7
+## X-License: All Rights Reserved
+## SavedVariables: HookAndHarvestDB
+## IconTexture: Interface\Icons\Trade_Fishing
+
+Locales\enUS.lua
+Locales\frFR.lua
+Locales\esES.lua
+Core.lua
+Nodes.lua
+Context.lua
+Stats.lua
+Sound.lua
+RP.lua
+Binding.lua
+Prompt.lua
+Options.lua
+Commands.lua

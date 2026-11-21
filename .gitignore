@@ -1,0 +1,7 @@
+﻿build/
+dist/
+.superpowers/
+__pycache__/
+*.zip
+HANDOFF.md
+docs/superpowers/
